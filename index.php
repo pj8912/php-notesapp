@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
-        <h1 class="nav-brand">MarkIt</h1>
+        <h1 class="nav-brand">Makeit</h1>
         <h6>the notes creator</h6>
     <!-- create notes , view notes -->
 
