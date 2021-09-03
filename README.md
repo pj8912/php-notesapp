@@ -1,2 +1,2 @@
-# makeit
-makeit notes creator
+# NotesApp
+Create Notes and NoteBooks
